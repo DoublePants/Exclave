@@ -1,17 +1,69 @@
 Trait List
 
-Funny / Grave
-Early Riser / Late Sleeper
-Stubborn / Understanding
-Imperious / Follower
-Conciliatory / Oppositional
-Irritable / Mellow
-Sarcastic / Sincere
-Cruel / Kind
-Antisocial / Sociable
-Drunkard / Teetotaller
-Absent-minded / Mindful
-Immature / Mature
-Confident / Uncertain
+Social Traits
+Funny / Grave; Tell Joke
+Stubborn / Understanding; Complain
+Imperious / Follower; Give Opinion
+Conciliatory / Oppositional; Offer Advice
+Irritable / Mellow; Rant
+Sarcastic / Sincere; Flippant Remark
+Cruel / Kind; Mock
+Antisocial / Sociable; Uncomfortable Silence
+Drunkard / Teetotaller; Talk About Alcohol
+Immature / Mature; Tell Crude Joke
+Confident / Uncertain; 
 Energetic / Lazy
 
+Personal Traits
+Early Riser / Late Sleeper
+Absent-minded / Mindful
+
+Format:
+Trait; Liked Conversation Topics (+), Disliked Conversation Topics (-)
+"Hypocrite" (Likes bringing up but not having it brought up) Topics (&)
+"Mirror" (Likes it brought up but doesn't bring it up) Topics (#)
+More +, -, & indicates more extreme reaction
+
+Social Traits
+Jovial; ++Tell Joke, +Tell Crude Joke, +Express Confidence, -Express Doubts, -Rant, #Tease, #Be Supportive
+Dour; +Express Doubts, +Complain, +Converse, -Tell Joke, -Tell Crude Joke, -Be Cheerful, -Small Talk, #Express Confidence, #Tease
+Stubborn; +Complain, -Give Opinion, -Offer Advice
+Understanding; +Anything, ---Tease
+Imperious; &Give Opinion, &Offer Advice
+Follower; &Ask For Opinion, &Ask For Advice
+Conciliatory; +Offer Advice
+Oppositional; 
+Irritable; ++Rant
+Mellow; +Awkward Silence
+Sarcastic; +Flippant Remark
+Sincere;
+Cruel; +Tease
+Kind; +Be Supportive
+Antisocial; +Awkward Silence
+Sociable; +Small Talk
+Drunkard; +Brag, +Small Talk
+Teetotaller; +Disapprove, -Brag
+Immature; +Tell Crude Joke
+Mature; +Converse
+Confident; +Express Confidence, -Express Doubts
+Uncertain; &Express Doubts, #Express Confidence
+Energetic; +Be Cheerful
+Lazy; +Complain
+
+Conversation Topics
+Awkward Silence
+Be Cheerful
+Be Supportive
+Brag
+Complain
+Converse
+Disapprove
+Give Opinion
+Express Confidence
+Express Doubts
+Offer Advice
+Rant
+Small Talk
+Tease
+Tell Crude Joke
+Tell Joke
