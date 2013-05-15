@@ -1,19 +1,5 @@
 Trait List
 
-Social Traits
-Funny / Grave; Tell Joke
-Stubborn / Understanding; Complain
-Imperious / Follower; Give Opinion
-Conciliatory / Oppositional; Offer Advice
-Irritable / Mellow; Rant
-Sarcastic / Sincere; Flippant Remark
-Cruel / Kind; Mock
-Antisocial / Sociable; Uncomfortable Silence
-Drunkard / Teetotaller; Talk About Alcohol
-Immature / Mature; Tell Crude Joke
-Confident / Uncertain; 
-Energetic / Lazy
-
 Personal Traits
 Early Riser / Late Sleeper
 Absent-minded / Mindful
@@ -36,7 +22,7 @@ Oppositional;
 Irritable; ++Rant
 Mellow; +Awkward Silence
 Sarcastic; +Flippant Remark
-Sincere;
+Sincere; +Be Supportive, +Give Opinion, +Be Cheerful
 Cruel; +Tease
 Kind; +Be Supportive
 Antisocial; +Awkward Silence
